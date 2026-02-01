@@ -1,0 +1,13 @@
+# Ignore all target folders
+**/target/
+
+# Ignore all git folders
+**/.git/
+
+# Ignore all DS_Store files
+**/.DS_Store
+
+**/*.ndjson
+*.ndjson
+
+test.*
